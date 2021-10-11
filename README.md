@@ -18,4 +18,13 @@ The removal of the false data certainly impacted district results, but the impac
   - Score by school size (THS is medium) went down by 0.1
   - Score by school type saw the "charter" type score drop by .04
 
+## The Summary
+In summary, with THS ninth grader's scores adjusted to NaN, four distinct changed occured at a district level:
+- Average Math Score dropped by 0.1
+- % Passing Math Score dropped by 0.2
+- % Passing Reading Score dropped by 0.3
+- % Overall Passing Score dropped by .01
+
+Overall, the district made the right call to exclude the false data, but preserve all other data to get the most accurate analysis for both THS and the district. While these percentages may look small, they will play a big part in the continued support in ensuring student success across the district.
+
 
